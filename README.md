@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akpanero
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on projects concerning cyber security
+- 👀 I’m interested in web development and ui/ux
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on projects concerning web development
 - 📫 How to reach me anybricks@gmail.com
 
 <!---
